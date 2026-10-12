@@ -1,0 +1,10 @@
+{
+  "name": "sanketh-shyam-professional-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "check": "node --check site-data.js && node --check app.js"
+  }
+}
